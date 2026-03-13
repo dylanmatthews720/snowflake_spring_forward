@@ -1,6 +1,6 @@
-# Snowflake Spring Forward Project in an Hour
+# Snowflake Spring Project in an Hour
 
-This repository contains a tutorial for **Snowflake's Spring Forward AI Project**, focused on building an AI agent for conversational analytics using Snowflake Cortex tools.
+This repository contains a tutorial for **Snowflake's Spring AI Project**, focused on building an AI agent for conversational analytics using Snowflake Cortex tools.
 
 ## Contents
 
