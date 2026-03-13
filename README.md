@@ -1,6 +1,6 @@
 # Snowflake Spring Forward Project in an Hour
 
-This repository contains materials for the **Snowflake Spring Forward AI Project**, focused on building an AI agent for conversational analytics using Snowflake Cortex tools.
+This repository contains a tutorial for **Snowflake's Spring Forward AI Project**, focused on building an AI agent for conversational analytics using Snowflake Cortex tools.
 
 ## Contents
 
@@ -15,7 +15,7 @@ The project demonstrates how to build an enterprise AI assistant that connects t
 - **Structured data** — synthetic healthcare clinical and claims datasets
 - **Unstructured data** — biomedical research articles from PubMed
 
-The AI agent can analyze both sources to provide summarized, contextual answers to user questions. :contentReference[oaicite:1]{index=1}
+The AI agent can analyze both sources to provide summarized, contextual answers to user questions.
 
 ## Technologies Used
 
@@ -34,7 +34,7 @@ The AI agent built in this project can answer questions such as:
 - *Which allergies are potentially life threatening?*
 - *What are clinical strategies for latex exposure?*
 
-It does this by combining results from Snowflake datasets with summarized research insights. :contentReference[oaicite:2]{index=2}
+It does this by combining results from Snowflake datasets with summarized research insights.
 
 ## Purpose
 
