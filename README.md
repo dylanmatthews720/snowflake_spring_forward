@@ -4,7 +4,7 @@ This repository contains a tutorial for **Snowflake's Spring Forward AI Project*
 
 ## Contents
 
-- **Snowflake Academia – Spring Project in an Hour.pdf**
+- [Snowflake Academia – Spring Project in an Hour](Snowflake%20Academia_%20Spring%20Project%20in%20an%20Hour.pdf)
 
 This document walks through the process of building a **Snowflake Intelligence AI agent** that can answer questions by reasoning over both **structured healthcare data** and **unstructured biomedical research data**.
 
